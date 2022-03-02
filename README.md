@@ -1,11 +1,11 @@
 # MagicMusic
 
->前言：在最近的一个外包项目[中包联盟](http://www.zblmchina.com/#/post)中使用到了video，遇到了好多坑。突发奇想来踩一踩audio的坑😀，果然一入深似海，👇下面将分享我的DIY之路-Vue音乐播放器。
+
 >注：本项目为开源项目，不能用于商业应用，仅供学习。
 
 [温馨提示：pc浏览f12手机模式最佳,手机建议wifi下访问,低版本浏览器可能有兼容性问题]
 
-**demo地址：** [http://hzzly.net/magic-music/](http://hzzly.net/magic-music/)
+
 
 | ![示范图片1](./screenshots/magic-music1.png) | ![示范图片1](./screenshots/magic-music2.png) | ![示范图片3](./screenshots/magic-music3.png) |
 |:-|:-|:-|
